@@ -6,6 +6,7 @@ if (1 == 1) {
     console.log('안녕')
 }
 
+//3의 배수
 function game(num) {
     if ( num % 3 == 0) {
         console.log('박수');
