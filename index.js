@@ -6,7 +6,7 @@ if (1 == 1) {
     console.log('안녕')
 }
 
-//3의 배수
+//3의 배수가 나오면 박수 아니면 통과 하는 게임
 function game(num) {
     if ( num % 3 == 0) {
         console.log('박수');
